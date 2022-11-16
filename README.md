@@ -20,7 +20,4 @@ OBJETIVOS ESPECIFICOS
 
 •	CAPITULO 3: LEY DE OHM
 
-![Diagrama de partes interesadas](https://user-images.githubusercontent.com/116814096/202050703-9e879b4d-bea1-4282-9965-b930a609bce6.png)
-
-![Diagrama de partes interesadas (1)](https://user-images.githubusercontent.com/116814096/202050862-b0f86e19-5d14-4863-bd2d-061ffc4a4245.png)
-
+![LEY DE OHM](https://user-images.githubusercontent.com/116814096/202050980-341ec5fa-25df-4aac-91ad-ebf8db89f620.png)
