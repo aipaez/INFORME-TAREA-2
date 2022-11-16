@@ -19,3 +19,5 @@ OBJETIVOS ESPECIFICOS
 # 2.	MARCO TEÓRICO (RESUMEN)
 
 •	CAPITULO 3: LEY DE OHM
+
+![Diagrama de partes interesadas](https://user-images.githubusercontent.com/116814096/202050703-9e879b4d-bea1-4282-9965-b930a609bce6.png)
