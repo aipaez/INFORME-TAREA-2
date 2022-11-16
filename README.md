@@ -42,12 +42,10 @@ SECCIÓN 3–1: La relación de corriente, voltaje y resistencia.
 
 6. En cierto circuito, I 5 5 mA cuando V 5 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
 
-![image](https://user-images.githubusercontent.com/116814096/202066961-eda9ef89-1df8-4725-b728-4b17cb082a17.png)
+![image](https://user-images.githubusercontent.com/105259459/170428412-7bb96651-f2ed-4563-9b13-b508d391a23a.png)
 
 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
 rojo, oro.
-
-![image](https://user-images.githubusercontent.com/116814096/202067066-31745724-8a88-46b0-954f-faf355f39bbe.png)
 
 ![image](https://user-images.githubusercontent.com/105259459/170432474-6094dc44-4763-464e-8c11-653c0fdf0830.png)
 
