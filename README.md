@@ -151,9 +151,13 @@ en amperes-hora?
 # 5.	CONCLUSIONES
 
 •	Por medio de la lectura del capítulo 3 y 4 mediante mapas conceptuales se puede decir que la ley de ohm describe la relación entre el voltaje, corriente y resistencia. 
+
 •	Definimos lo que es la ley de Ohm, energía y potencia y se concluye que son conceptos que van de la mano con su fórmula además de que si se logra comprender la definición, nos puede ayudar a resolver problemas mediante el análisis sin la necesidad de realizar operaciones matemáticas.
+
 •	Notamos que una formula sirve para diferentes casos, esto se debe a los diversos despejes que se pueden hacer con las fórmulas, los cuales debemos poder encontrar con precisión ya que un solo error y las fórmulas resultantes no servirían.
+
 •	La corriente y el voltaje son linealmente proporcionales y la corriente y la resistencia son inversamente proporcionales, mediante esto se puede encontrar la potencia. 
+
 •	En cuanto a la energía es la capacidad de realizar el trabajo y la potencia la velocidad en que se utiliza esa energía, se pensó como se utiliza la potencia especialmente en circuitos.
 
 # 6.	Bibliografía
