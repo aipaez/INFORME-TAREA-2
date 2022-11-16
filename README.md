@@ -114,7 +114,7 @@ SECCIÓN 3–4: Cálculo de la resistencia.
 amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito
 necesarias.
 
-![image](https://user-images.githubusercontent.com/116814096/202067548-bfe4180a-d232-40d5-84d1-e3e1d2a1341a.png)
+![image](https://user-images.githubusercontent.com/105259459/170447759-900f3947-630f-4a15-9882-f926e93a7c68.png)
 
 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
 excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato
