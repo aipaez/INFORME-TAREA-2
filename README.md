@@ -49,6 +49,8 @@ rojo, oro.
 
 ![image](https://user-images.githubusercontent.com/116814096/202067066-31745724-8a88-46b0-954f-faf355f39bbe.png)
 
+![image](https://user-images.githubusercontent.com/105259459/170432474-6094dc44-4763-464e-8c11-653c0fdf0830.png)
+
 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
 ![image](https://user-images.githubusercontent.com/116814096/202067112-3be3cd73-462d-4d64-b7e3-a7b94615b764.png)
